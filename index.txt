@@ -1,1 +1,3 @@
 "testing new repos for commits" 
+"we have classes" 
+"the classes will be osite" 
